@@ -72,6 +72,7 @@ if __name__ == "__main__":
             putEmotion(img, emotion, x, y, w, h)
 
         cv2.imshow('img',img)
+        cv2.imwrite("Result.jpg", img)
         k = cv2.waitKey() & 0xff
         if k == ord('q'):
             cv2.destroyAllWindows()
