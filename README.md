@@ -1,4 +1,4 @@
-# Emotion-Recognition
+# Emotion Recognition - Real-time detection
 - Emotion recognition using haar-like and CNN model.
 - Using haar-like feature to detect face in image
 - After detecting face, put it into CNN network to recognize emotions
@@ -9,7 +9,8 @@
 ```
   python load_dataset.py
 ```
-## 2. Train model:
+## 2. Train model: 
+- *Use gpu to train, if don't have gpu you don't use .cuda () in the lines*
 ```
   python train.py
 ```
