@@ -14,7 +14,7 @@
 ```
   python train.py
 ```
-## 3. Enjoy the result:
+## 3. Enjoy result:
 ```
 * Detect from webcam: python main.py --mode Webcam
 * Detect from image: python main.py --mode Image --path (Img_file)
