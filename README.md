@@ -22,4 +22,3 @@
 ## 4. Demo: 
 #### *Here I am using Vietnamese, you can replace emotions with your language in label2id*
 <p align="center"> <img src="https://github.com/manhminno/Emotion-Recognition/blob/master/Result.jpg"></p>
-<p align="center"> <img src="https://github.com/manhminno/Emotion-Recognition/blob/master/Demo.jpg"></p>
